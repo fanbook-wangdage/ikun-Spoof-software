@@ -12,3 +12,6 @@ pip install pyinstaller
 ```
 pyinstaller.exe 文件目录（建议主程序和辅助程序都打包）
 ```
+  
+打包完成的exe下载：  
+http://fanbook_wdgsys.bailituya.com/wdglkun.zip
