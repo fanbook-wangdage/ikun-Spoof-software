@@ -5,7 +5,7 @@
 第三方库请手动安装
 打包请安装pyinstaller
 ```
-pip install yinstaller
+pip install pyinstaller
 ```
 进入到目录（一般为C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts）
 在文件夹中打开cmd
